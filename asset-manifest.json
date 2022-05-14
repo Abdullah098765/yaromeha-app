@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yaromeha-app/static/css/main.da91d019.css",
+    "main.js": "/yaromeha-app/static/js/main.de8b26d0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/yaromeha-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/yaromeha-app/index.html",
+    "main.da91d019.css.map": "/yaromeha-app/static/css/main.da91d019.css.map",
+    "main.de8b26d0.js.map": "/yaromeha-app/static/js/main.de8b26d0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/yaromeha-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da91d019.css",
+    "static/js/main.de8b26d0.js"
+  ]
+}
